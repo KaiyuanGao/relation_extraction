@@ -1,9 +1,9 @@
 # relation_extraction
 A Repository for one of NLP tasks---relation extraction, with different implementations.
 
-**To make clear, this project has several different implementationswith detailed separate README.md**
+**To make clear, this project has several different implementations with detailed separate README.md**
 
-**Also, this this project is still in process.**
+**Also, this project is still in process.**
 
 ## Requirements
 - Python 3
